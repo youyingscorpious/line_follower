@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+_wheels/
+out/*
+!out/preview_*.png
+
+# 本机编辑器配置（含绝对路径）
+.vscode/settings.json
