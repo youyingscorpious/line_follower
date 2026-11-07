@@ -7,3 +7,6 @@ out/*
 
 # 本机编辑器配置（含绝对路径）
 .vscode/settings.json
+
+# 大体积样例视频（52MB，不纳入版本库）
+samples/*.mp4
